@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/WPF-LoginForm/obj/Debug/App.g.i.cs
+/WPF-LoginForm/obj/Debug/View/LoginView.g.i.cs
+/WPF-LoginForm/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/WPF-LoginForm/obj/Debug/MainWindow.g.i.cs
+/WPF-LoginForm/obj/Debug/WPF-LoginForm.csproj.AssemblyReference.cache
+/WPF-LoginForm/obj/Debug/WPF-LoginForm_MarkupCompile.i.cache
+/WPF-LoginForm/obj/Debug/WPF-LoginForm_MarkupCompile.i.lref
